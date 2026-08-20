@@ -1,3 +1,5 @@
+Jetbrains Community Release: https://github.com/JetBrains/intellij-community/releases
+
 # GantSign IntelliJ IDEA Inspection Profile
 
 The inspections built into IntelliJ IDEA are a powerful tool to educate
